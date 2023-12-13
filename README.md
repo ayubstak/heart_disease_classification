@@ -44,7 +44,7 @@ cara penggunaan model:
    155")". namun, jika nomornya tetap 344, maka tidak perlu diubah.
 
    ![image](https://github.com/ayubstak/heart_disease_classification/assets/92737338/fa80d648-5016-46b7-ad20-c66eef261dd5)
-   sebelum run cell diatas, upload terlebih dahulu file test set untuk model ini yang tersedia juga pada github, yaitu "test_dataset1.csv".
+   sebelum run cell diatas, upload terlebih dahulu file test set untuk model ini yang tersedia juga pada github, yaitu "test_dataset1.csv" ke google colab.
 
    ![image](https://github.com/ayubstak/heart_disease_classification/assets/92737338/dc03f516-f541-44e1-b80f-32556503ca34)
    run cell diatas. cell ini untuk mengklasifikasikan test data menggunakan model yang sudah di train
